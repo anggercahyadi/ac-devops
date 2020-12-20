@@ -1,0 +1,5 @@
+AC-DEVOPS
+
+- Konsisten untuk mendalami devops
+- Membuat framework untuk memulai
+- Membuat Community or forum
