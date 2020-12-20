@@ -1,0 +1,6 @@
+Action Plan Devops
+
+- UAT
+- Development
+- Change Management
+- Production
