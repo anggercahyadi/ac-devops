@@ -3,7 +3,10 @@ Action Plan Devops
 - UAT
   * Testing Apps
   * Final Testing Apps
+    - Create Memo
   * Live UAT
+    - Sosialisasi
+    - Monitor
 - Development
 - Change Management
 - Production
