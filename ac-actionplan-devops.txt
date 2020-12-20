@@ -3,6 +3,7 @@ Action Plan Devops
 - UAT
   * Testing Apps
   * Final Testing Apps
+    - Coordination
     - Create Memo
   * Live UAT
     - Sosialisasi
@@ -10,3 +11,4 @@ Action Plan Devops
 - Development
 - Change Management
 - Production
+- PAT ( Production Accept Testing )
